@@ -1,4 +1,4 @@
-package nay.kirill.ypracticum.todo.ui.theme
+package nay.kirill.ypracticum.todo.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
